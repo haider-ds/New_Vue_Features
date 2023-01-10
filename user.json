@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sebastian",
+      "email": "Eschweiler12@gmail.com",
+      "address": "sebastian@codingthesmartway",
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "email": "steve@codingthesmartway.com",
+      "address": "steve@codingthesmartway",
+      "country": "USA"
+    }
+  ]
+}
